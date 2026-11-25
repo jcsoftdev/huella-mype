@@ -1,0 +1,10 @@
+# Knowledge Update Log
+
+Newest first.
+
+- 2026-11-25 — **Plan hardened after an independent Opus audit** (3 blockers, 8 high). Contract: `status` with root index (one-call verdicts), revoke by issuing attester, two-step operator-approved claim. Payments and assets (USDC trustline + linked disbursement) moved into the MVP. Huella split into hashed `document` and unhashed `meta`; window 2024–2025 by signing date, fetch from 2023-07. All huellas published as a release asset; synthetic Empresa Demo for the interactive demo; standalone verifier. Hello-world deploy Nov 26; video edit moved to C; reviewers fixed (C always reviews A); critical paths rewritten. Wording fixed (no "sin confiar en nosotros", size proxy for MYPE, illustrative personas). Fixtures redacted of RUC 10 data. New decisions: payments-and-assets-in-mvp, huellas-published-as-release-asset, demo-company-is-synthetic; new gotcha: bulk-files-grouped-by-tender-start-month.
+
+- 2026-11-25 — Rebalanced lanes: A owns the claim end to end (incl. `api/claim`), B owns `/api/search` (B11), D owns deploy (D10) and `apps/web/package.json`, C drops C6/C9. Added team roster (lanes TBD at kickoff) and six cross-lane pair sessions so every member co-builds at least two parts outside their lane.
+
+- 2026-11-25 — **Full rewrite around the judging criteria.** New: strategy/how-we-win, product/demo-and-video, specs/registry-contract (adds MYPE claim), specs/data-pipeline, specs/api-and-web, specs/architecture, plans/team-and-workflow, plans/backlog (criterion per task), plans/timeline (gates, risks), decisions/mype-claim-in-mvp, decisions/wallet-only-for-the-claim. Removed: plans/team-plan, plans/winning-strategy, specs/system-architecture, specs/registry-contract-interface, decisions/no-wallet-for-mvp (superseded). Rewritten: product-definition, huella v1 (5 verdicts), rules, research index. Updated: no-personal-data-on-chain (claimant address allowed).
+- 2026-11-24 — Bundle created from the initial research (OECE OCDS data, Stellar/Soroban stack, market).

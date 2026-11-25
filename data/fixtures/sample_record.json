@@ -1,0 +1,3453 @@
+{
+ "compiledRelease": {
+  "tag": [
+   "compiled"
+  ],
+  "id": "ocds-dgv273-seacev3-2024-424-9-2026-01-01T10:22:32.320059-05:00",
+  "date": "2026-01-01T10:22:32.320045-05:00",
+  "ocid": "ocds-dgv273-seacev3-2024-424-9",
+  "publishedDate": "2026-01-01T10:22:32.320065-05:00",
+  "initiationType": "tender",
+  "buyer": {
+   "id": "PE-CONSUCODE-424",
+   "name": "MUNICIPALIDAD DISTRITAL DE ALTO SELVA ALEGRE"
+  },
+  "planning": {
+   "budget": {
+    "description": "Fondos Públicos",
+    "project": "MEJORAMIENTO DE LA TRANSITABILIDAD VEHICULAR Y PEATONAL DEL ASENTAMIENTO HUMANO COOP. MARISCAL ANDRES AVELINO CACERES Y ASOC. AUGUSTO SALAZAR BONDY, DISTRITO DE ALTO SELVA ALEGRE - AREQUIPA - AREQUIPA",
+    "projectID": "2315085",
+    "amount": {
+     "amount": 4732410.96,
+     "currency": "PEN",
+     "currencyName": "Soles"
+    }
+   }
+  },
+  "tender": {
+   "id": "999983",
+   "title": "AS-SM-8-2024-MDASA/CS-1",
+   "description": "CONTRATACION DE UNA PERSONA NATURAL O JURIDICA ENCARGADA DE LA EJECUCION DEL PROYECTO DENOMINADO: \"MEJORAMIENTO DE LA TRANSITABILIDAD VEHICULAR Y PEATONAL DEL ASENTAMIENTO HUMANO COOP. MARISCAL ANDRES AVELINO CACERES Y ASOC. AUGUSTO SALAZAR BONDY, DISTRITO DE ALTO SELVA ALEGRE - AREQUIPA - AREQUIPA¿ con CUI N°2315085",
+   "procuringEntity": {
+    "id": "PE-CONSUCODE-424",
+    "name": "MUNICIPALIDAD DISTRITAL DE ALTO SELVA ALEGRE"
+   },
+   "datePublished": "2024-03-27T23:35:00-05:00",
+   "procurementMethod": "open",
+   "procurementMethodDetails": "Adjudicación Simplificada",
+   "mainProcurementCategory": "works",
+   "additionalProcurementCategories": [
+    "works"
+   ],
+   "value": {
+    "amount": 2490742.61,
+    "currency": "PEN",
+    "currencyName": "Soles",
+    "amount_PEN": 2490742.61
+   },
+   "tenderPeriod": {
+    "startDate": "2024-03-27T00:00:00-05:00",
+    "endDate": "2024-03-27T00:00:00-05:00"
+   },
+   "enquiryPeriod": {
+    "startDate": "2024-03-28T00:01:00-05:00",
+    "endDate": "2024-04-03T23:59:00-05:00",
+    "durationInDays": 6
+   },
+   "items": [
+    {
+     "id": "20656452",
+     "position": "1",
+     "description": "CONTRATACION DE UNA PERSONA NATURAL O JURIDICA ENCARGADA DE LA EJECUCION DEL PROYECTO DENOMINADO: \"MEJORAMIENTO DE LA TRANSITABILIDAD VEHICULAR Y PEATONAL DEL ASENTAMIENTO HUMANO COOP. MARISCAL ANDRES AVELINO CACERES Y ASOC. AUGUSTO SALAZAR BONDY, DISTRITO DE ALTO SELVA ALEGRE - AREQUIPA - AREQUIPA¿ con CUI N°2315085",
+     "statusDetails": "CONTRATADO",
+     "status": "complete",
+     "classification": {
+      "id": "7214100100233103",
+      "description": "CONSTRUCCION DE CALLES CON PAVIMENTO",
+      "scheme": "CUBSO"
+     },
+     "additionalClassifications": [
+      {
+       "id": "72141001",
+       "description": "Servicios de construcción de pistas y carreteras nuevas",
+       "scheme": "UNSPSC"
+      }
+     ],
+     "quantity": 1.0,
+     "totalValue": {
+      "amount": 2490742.61,
+      "currency": "PEN",
+      "currencyName": "Soles"
+     },
+     "unit": {
+      "id": "36",
+      "name": "Servicio",
+      "scheme": "PE-SEACE3-UnidadMedida"
+     }
+    }
+   ],
+   "documents": [
+    {
+     "id": "24831474985001225",
+     "url": "https://prod1.seace.gob.pe/SeaceWeb-PRO/SdescargarArchivoAlfresco?fileCode=3a26d90e-4093-498a-93bb-f6d9d45efe30",
+     "datePublished": "2024-03-27T23:35:00-05:00",
+     "format": "pdf",
+     "documentType": "biddingDocuments",
+     "title": "Bases Administrativas",
+     "language": "es",
+     "dateModified": "2024-04-11T23:00:10-05:00"
+    },
+    {
+     "id": "24831474985019396",
+     "url": "https://prod1.seace.gob.pe/SeaceWeb-PRO/SdescargarArchivoAlfresco?fileCode=d7a45846-34fd-4468-87f7-2203c0cfb699",
+     "datePublished": "2024-04-11T23:00:10-05:00",
+     "dateModified": "2024-04-11T23:00:10-05:00",
+     "format": "pdf",
+     "documentType": "clarifications",
+     "title": "Pliego de absolución de consultas y observaciones",
+     "language": "es"
+    },
+    {
+     "id": "24831474985019397",
+     "url": "https://prod1.seace.gob.pe/SeaceWeb-PRO/SdescargarArchivoAlfresco?fileCode=2fdf8edc-0eff-4698-aeee-fe2415167d26",
+     "datePublished": "2024-04-11T23:00:10-05:00",
+     "dateModified": "2024-04-11T23:00:10-05:00",
+     "format": "rar",
+     "documentType": "biddingDocuments",
+     "title": "Bases Integradas",
+     "language": "es"
+    },
+    {
+     "id": "24831474985140627",
+     "url": "https://prod1.seace.gob.pe/SeaceWeb-PRO/SdescargarArchivoAlfresco?fileCode=0feee89c-283e-467e-93e7-a51b678d0a25",
+     "datePublished": "2024-06-28T23:33:19-05:00",
+     "format": "zip",
+     "documentType": "biddingDocuments",
+     "title": "Documentos de Presentación de Propuestas",
+     "language": "es"
+    },
+    {
+     "id": "24831474985140628",
+     "url": "https://prod1.seace.gob.pe/SeaceWeb-PRO/SdescargarArchivoAlfresco?fileCode=5d7a5c1c-7f13-4e98-964f-da995fba7163",
+     "datePublished": "2024-06-28T23:33:19-05:00",
+     "format": "zip",
+     "documentType": "evaluationReports",
+     "title": "Documentos de Calificación y Evaluación",
+     "language": "es"
+    },
+    {
+     "id": "24831474985140649",
+     "url": "https://prod1.seace.gob.pe/SeaceWeb-PRO/SdescargarArchivoAlfresco?fileCode=4b7bf785-5464-452b-a6b2-a85ea59448ad",
+     "datePublished": "2024-06-28T23:33:19-05:00",
+     "format": "zip",
+     "documentType": "awardNotice",
+     "title": "Documentos de Otorgamiento de Buena Pro",
+     "language": "es"
+    },
+    {
+     "id": "24831474985301412",
+     "description": "Caja",
+     "url": "https://prod1.seace.gob.pe/SeaceWeb-PRO/SdescargarArchivoAlfresco?fileCode=06cf638d-1b98-4675-86be-f75a8bb888e0",
+     "datePublished": "2024-10-22T13:18:07-05:00",
+     "format": "rar",
+     "language": "es"
+    },
+    {
+     "id": "24831474985315565",
+     "url": "https://prod1.seace.gob.pe/SeaceWeb-PRO/SdescargarArchivoAlfresco?fileCode=8785184c-eca9-4cc5-b4eb-0baea390cdfe",
+     "datePublished": "2024-10-30T12:42:09-05:00",
+     "format": "zip",
+     "documentType": "awardNotice",
+     "title": "Documentos de Otorgamiento de Buena Pro",
+     "language": "es"
+    }
+   ],
+   "hasTenderInformationProtectedByLaw": false,
+   "tenderers": [
+    {
+     "id": "PE-RUC-1508246",
+     "name": "CONSORCIO TRANSCYE"
+    },
+    {
+     "id": "PE-RUC-1508149",
+     "name": "CONSORCIO EJECUTOR NORTE"
+    },
+    {
+     "id": "PE-RUC-1508152",
+     "name": "CONSORCIO ERMITAÑO"
+    },
+    {
+     "id": "PE-RUC-1508212",
+     "name": "CONSORCIO SAN MARTIN"
+    },
+    {
+     "id": "PE-RUC-1508333",
+     "name": "A1 EJECUTOR"
+    },
+    {
+     "id": "PE-RUC-1508111",
+     "name": "CONSORCIO SANTA TERESA"
+    },
+    {
+     "id": "PE-RUC-1508179",
+     "name": "CONSORCIO VIAL SELVA ALEGRE"
+    },
+    {
+     "id": "PE-RUC-1508120",
+     "name": "CONSORCIO SELVA ALEGRE - AREQUIPA"
+    },
+    {
+     "id": "PE-RUC-1508250",
+     "name": "ACME"
+    },
+    {
+     "id": "PE-RUC-1508252",
+     "name": "CONSORCIO LIMA NORTE"
+    },
+    {
+     "id": "PE-RUC-1508127",
+     "name": "consorcio vial"
+    },
+    {
+     "id": "PE-RUC-1508321",
+     "name": "CONSORCIO ALCA"
+    },
+    {
+     "id": "PE-RUC-1508229",
+     "name": "CONSORCIO HOT SUITE"
+    },
+    {
+     "id": "PE-RUC-1508197",
+     "name": "consorcio bondy"
+    },
+    {
+     "id": "PE-RUC-1508092",
+     "name": "CONSORCIO ARES"
+    },
+    {
+     "id": "PE-RUC-1508136",
+     "name": "CONSORCIO CHAPI"
+    },
+    {
+     "id": "PE-RUC-1508137",
+     "name": "CONSORCIO AMANCAES"
+    },
+    {
+     "id": "PE-RUC-20603587244",
+     "name": "ALVAMAR SOCIETY  S.A.C."
+    },
+    {
+     "id": "PE-RUC-20456196480",
+     "name": "THERAN CONTRATISTAS GENERALES E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20600183762",
+     "name": "JUSAL INVERSIONES E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20261295246",
+     "name": "FM CONTRATISTAS GENERALES S.R.L"
+    },
+    {
+     "id": "PE-RUC-20393340208",
+     "name": "DAYAN CONTRATISTAS S.A.C."
+    },
+    {
+     "id": "PE-RUC-20559212700",
+     "name": "GRUPO COINGCO S.A.C."
+    },
+    {
+     "id": "PE-RUC-20506123501",
+     "name": "JAEC CONTRATISTAS GENERALES SRL"
+    },
+    {
+     "id": "PE-RUC-20605139109",
+     "name": "CONSTRUCTORA URBANUZ PERU S.R.L."
+    },
+    {
+     "id": "PE-RUC-20489665604",
+     "name": "H& G ZAFIRO SOCIEDAD ANONIMA CERRADA"
+    },
+    {
+     "id": "PE-RUC-10000000028",
+     "name": "PERSONA NATURAL (DATO REDACTADO)"
+    },
+    {
+     "id": "PE-RUC-10000000029",
+     "name": "PERSONA NATURAL (DATO REDACTADO)"
+    },
+    {
+     "id": "PE-RUC-20517099857",
+     "name": "THE MOON CONTRATISTAS GENERALES SAC"
+    },
+    {
+     "id": "PE-RUC-20477911111",
+     "name": "WCEX E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20606698250",
+     "name": "VALCOR CONSTRUCCIONES S.R.L."
+    },
+    {
+     "id": "PE-RUC-20558231549",
+     "name": "INGENIERIA MAQUINARIAS EIRL"
+    },
+    {
+     "id": "PE-RUC-20539330099",
+     "name": "RIOFERR S.R.L."
+    },
+    {
+     "id": "PE-RUC-20455326151",
+     "name": "REGALMA E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20498492224",
+     "name": "V & C SERVICIOS S.R.L."
+    },
+    {
+     "id": "PE-RUC-20539416643",
+     "name": "WARA CONTRATISTAS GENERALES S.A.C."
+    },
+    {
+     "id": "PE-RUC-20608408747",
+     "name": "PACORQ S.R.L"
+    },
+    {
+     "id": "PE-RUC-20456323007",
+     "name": "E & F TRANSMAQ S.A.C."
+    },
+    {
+     "id": "PE-RUC-10000000030",
+     "name": "PERSONA NATURAL (DATO REDACTADO)"
+    },
+    {
+     "id": "PE-RUC-20448090958",
+     "name": "INDUSTRIA DE MAQUINARIAS Y EQUIPAMIENTOS S.R.L."
+    },
+    {
+     "id": "PE-RUC-20558017032",
+     "name": "DELTA SUR S.A.C."
+    },
+    {
+     "id": "PE-RUC-20558593963",
+     "name": "JP CONSTRUCCION & SUMINISTROS S.R.L."
+    },
+    {
+     "id": "PE-RUC-20610460527",
+     "name": "AIC ACTIVIDADES DE INGENIERIA Y CONSTRUCCION S.A.C."
+    },
+    {
+     "id": "PE-RUC-20600775309",
+     "name": "D & A CONSTRUCCIONES SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA - D & A CONSTRUCCIONES S.R.L."
+    },
+    {
+     "id": "PE-RUC-20558374579",
+     "name": "EDTEZA E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20605415009",
+     "name": "COLTAN JLA S.A.C."
+    },
+    {
+     "id": "PE-RUC-20558351790",
+     "name": "DRUK GAVE INGENIERIA CONSTRUCCION Y SERVICIOS S.R.L.-DRUK GAVE ICS S.R.L."
+    },
+    {
+     "id": "PE-RUC-20600928458",
+     "name": "SOLVER TI SOCIEDAD ANONIMA CERRADA - SOLVER TI S.A.C."
+    },
+    {
+     "id": "PE-RUC-20603932693",
+     "name": "NXTGEN SOCIEDAD ANONIMA CERRADA"
+    },
+    {
+     "id": "PE-RUC-20600894821",
+     "name": "OBRETECH SOCIEDAD ANONIMA CERRADA - OBRETECH S.A.C."
+    },
+    {
+     "id": "PE-RUC-20605000097",
+     "name": "GLOBAL GROUP EPVA S.A.C."
+    },
+    {
+     "id": "PE-RUC-20539408543",
+     "name": "CONSTRUCTORA COSUR E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20519607264",
+     "name": "SERVCOM E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20498283226",
+     "name": "INGENIERIA Y CONSTRUCCION DEL SUR SAC"
+    },
+    {
+     "id": "PE-RUC-20601059381",
+     "name": "MONTALVO CONSTRUCTORA Y CONSULTORIA E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20457396946",
+     "name": "SHEYSA CONTRATISTAS SOCIEDAD ANONIMA CERRADA - SHEYCONSAC"
+    },
+    {
+     "id": "PE-RUC-20454239050",
+     "name": "E&A CONTRATISTAS GENERALES S.R.L."
+    },
+    {
+     "id": "PE-RUC-20559326381",
+     "name": "MONVISO CONTRATISTAS Y CONSULTORES SOCIEDAD COMERCIAL DE RESPONSABILIDA LIMITADA"
+    },
+    {
+     "id": "PE-RUC-20448771475",
+     "name": "GRUPO CH & M SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA"
+    },
+    {
+     "id": "PE-RUC-20603943075",
+     "name": "BJL CONSTRUCTORA E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20498284206",
+     "name": "C.M.CONTRATISTAS GENERALES E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-10000000031",
+     "name": "PERSONA NATURAL (DATO REDACTADO)"
+    },
+    {
+     "id": "PE-RUC-20609326914",
+     "name": "GRUPO CONSOR S.A.C."
+    },
+    {
+     "id": "PE-RUC-20606186062",
+     "name": "MADAH PERU S.A.C."
+    },
+    {
+     "id": "PE-RUC-20534717068",
+     "name": "CONSTRUCTORA E INMOBILIARIA TRIANGULO S.R.L"
+    },
+    {
+     "id": "PE-RUC-20533943706",
+     "name": "CORPORACION INTERNACIONAL RIO AMAZONAS S.R.L."
+    },
+    {
+     "id": "PE-RUC-20454915951",
+     "name": "JIALCON CONTRATISTAS S.R.L."
+    },
+    {
+     "id": "PE-RUC-20611296607",
+     "name": "SRV INGENIEROS ASOCIADOS E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20604390410",
+     "name": "ORGANIZACION DE SERVICIOS Y CONSTRUCCION SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA"
+    },
+    {
+     "id": "PE-RUC-20507687084",
+     "name": "DESARROLLO INNOVACION Y TECNOLOGIA DE SERVICIOS S.A.C"
+    },
+    {
+     "id": "PE-RUC-20406472281",
+     "name": "CONSTRUCTORA INMOBILIARIA CONSULTORA E Y E E.I.R.L. - CICEE E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20532580260",
+     "name": "CONSULTORIA DE INGENIERIAS Y CONSTRUCCION SOCIEDAD ANONIMA - CODEINCO S.A."
+    },
+    {
+     "id": "PE-RUC-20393271044",
+     "name": "NEGOCIACIONES E INVERSIONES ELAAN EIRL"
+    },
+    {
+     "id": "PE-RUC-20455430489",
+     "name": "ARCEN CONTRATISTAS GENERALES S.A.C."
+    },
+    {
+     "id": "PE-RUC-20602018297",
+     "name": "DELVILLAREAL E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20509186961",
+     "name": "R & M CONTRATISTAS SOCIEDAD ANONIMA CERRADA"
+    },
+    {
+     "id": "PE-RUC-20534272431",
+     "name": "MELTASS CONTRATISTAS GENERALES SOCIEDAD ANONIMA CERRADA"
+    },
+    {
+     "id": "PE-RUC-20558235455",
+     "name": "GREMA SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA-GREMA S.R.L."
+    },
+    {
+     "id": "PE-RUC-20344955051",
+     "name": "B&C CONTRATISTAS GENERALES S.A."
+    },
+    {
+     "id": "PE-RUC-20600428153",
+     "name": "CONCRETO SUR MIX E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20223880372",
+     "name": "M & C CONSTRUCCIONES Y SERVICIOS SRLTDA"
+    },
+    {
+     "id": "PE-RUC-20542681731",
+     "name": "INDUSTRIA DE LA CONSTRUCCION & CONSULTORES PERU S.A.C."
+    },
+    {
+     "id": "PE-RUC-20542059291",
+     "name": "CORPORACION GRUPO IBIZA S.A.C."
+    },
+    {
+     "id": "PE-RUC-20443107593",
+     "name": "AMC INGENIEROS S.R.LTDA."
+    },
+    {
+     "id": "PE-RUC-20558683369",
+     "name": "INVERSIONES TRANSCYE SAC"
+    },
+    {
+     "id": "PE-RUC-20557038338",
+     "name": "C & R EJECUTORES S.A.C."
+    },
+    {
+     "id": "PE-RUC-20602604030",
+     "name": "GRUPO SIGMA PERU S.A.C."
+    },
+    {
+     "id": "PE-RUC-20455678189",
+     "name": "ESCORPIO / CCSG / S.A.C."
+    },
+    {
+     "id": "PE-RUC-20547097069",
+     "name": "M & S PROYECTS S.A.C."
+    },
+    {
+     "id": "PE-RUC-20610627162",
+     "name": "ERPCA CONSULTORIA EJECUCION Y SERVICIOS GENERALES E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20365809179",
+     "name": "EL HORIZONTE S.R.L."
+    },
+    {
+     "id": "PE-RUC-20448307523",
+     "name": "Z & Z INGENIEROS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA"
+    },
+    {
+     "id": "PE-RUC-20498186379",
+     "name": "CONSTRUCTORA GUERRA S.A.C."
+    },
+    {
+     "id": "PE-RUC-20515430505",
+     "name": "CONSTRUCTORA PAFARI SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA - CONSTRUCTORA PAFARI S.R.L."
+    },
+    {
+     "id": "PE-RUC-20454724691",
+     "name": "ECONYSUR S.R.L."
+    },
+    {
+     "id": "PE-RUC-20506003351",
+     "name": "MEJESA S.R.L."
+    },
+    {
+     "id": "PE-RUC-20215462910",
+     "name": "NOSA CONTRATISTAS GENERALES S R L"
+    },
+    {
+     "id": "PE-RUC-20600446143",
+     "name": "CONSTRUCTORA SAN ROMAN PERÚ S.A.C."
+    },
+    {
+     "id": "PE-RUC-20481456712",
+     "name": "GENESIS CONTRATISTAS GENERALES S.A.C."
+    },
+    {
+     "id": "PE-RUC-20454168365",
+     "name": "CONSTRUCCIONES ALFA - OMEGA S.R.L."
+    },
+    {
+     "id": "PE-RUC-10000000032",
+     "name": "PERSONA NATURAL (DATO REDACTADO)"
+    },
+    {
+     "id": "PE-RUC-20604357951",
+     "name": "FAPECONS INGENIERIA Y CONSTRUCCION E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20600068050",
+     "name": "CALMER CONTRATISTAS GENERALES SOCIEDAD ANONIMA CERRADA - CALMER S.A.C."
+    },
+    {
+     "id": "PE-RUC-20517230821",
+     "name": "CORPORACION J&J INGENIEROS S.A.C."
+    },
+    {
+     "id": "PE-RUC-20552908903",
+     "name": "CORPORACION LINARES CONTRATISTAS S.A.C."
+    },
+    {
+     "id": "PE-RUC-20530258620",
+     "name": "PROYECTOS Y CONSTRUCCIONES ESCALANTE S.A.C"
+    },
+    {
+     "id": "PE-RUC-20494686369",
+     "name": "CONSTRUCTORA E INMOBILIARIA ENMANUEL & LUCIANO SOCIEDAD ANONIMA CERRADA"
+    },
+    {
+     "id": "PE-RUC-20558040522",
+     "name": "INGECONST.PERU E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20455554889",
+     "name": "TRANSMAVEN S.R.L."
+    },
+    {
+     "id": "PE-RUC-10000000033",
+     "name": "PERSONA NATURAL (DATO REDACTADO)"
+    },
+    {
+     "id": "PE-RUC-20455682020",
+     "name": "J & M MINERIA Y SERVICIOS S.R.L."
+    },
+    {
+     "id": "PE-RUC-20456201661",
+     "name": "J Y V CONSULTORIA, CONSTRUCCION, Y LABORATORIO DE MECANICA DE SUELOS S.A.C."
+    },
+    {
+     "id": "PE-RUC-20508461489",
+     "name": "ARCONST SOCIEDAD ANONIMA CERRADA"
+    },
+    {
+     "id": "PE-RUC-20605563253",
+     "name": "MAJIHSA MATERIALES Y CONSTRUCCION E.I.R.L."
+    },
+    {
+     "id": "PE-RUC-20601928249",
+     "name": "GRUPO LOGISTICO CONSTRUCTOR AREQUIPA EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA-G.L.C.A. E.I.R.L"
+    },
+    {
+     "id": "PE-RUC-20447723965",
+     "name": "ALFARUS CONTRATISTAS GENERALES SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA"
+    },
+    {
+     "id": "PE-RUC-20534004185",
+     "name": "HUACHECSA S.R.L. - HCSA S.R.L."
+    }
+   ],
+   "numberOfTenderers": 117
+  },
+  "parties": [
+   {
+    "id": "PE-CONSUCODE-424",
+    "name": "MUNICIPALIDAD DISTRITAL DE ALTO SELVA ALEGRE",
+    "identifier": {
+     "id": "424",
+     "scheme": "PE-CONSUCODE",
+     "legalName": "MUNICIPALIDAD DISTRITAL DE ALTO SELVA ALEGRE"
+    },
+    "additionalIdentifiers": [
+     {
+      "id": "20311886879",
+      "scheme": "PE-RUC",
+      "legalName": "MUNICIPALIDAD DISTRITAL DE ALTO SELVA ALEGRE"
+     }
+    ],
+    "address": {
+     "streetAddress": "ESQ. AV. OBRERA CON CALLE JOSE OLAYA S/N",
+     "locality": "ALTO SELVA ALEGRE",
+     "region": "AREQUIPA",
+     "department": "AREQUIPA",
+     "countryName": "PERU"
+    },
+    "contactPoint": {
+     "telephone": "0"
+    },
+    "roles": [
+     "buyer",
+     "procuringEntity"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508246",
+    "name": "CONSORCIO TRANSCYE",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508246",
+     "legalName": "CONSORCIO TRANSCYE"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508149",
+    "name": "CONSORCIO EJECUTOR NORTE",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508149",
+     "legalName": "CONSORCIO EJECUTOR NORTE"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508152",
+    "name": "CONSORCIO ERMITAÑO",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508152",
+     "legalName": "CONSORCIO ERMITAÑO"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508212",
+    "name": "CONSORCIO SAN MARTIN",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508212",
+     "legalName": "CONSORCIO SAN MARTIN"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508333",
+    "name": "A1 EJECUTOR",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508333",
+     "legalName": "A1 EJECUTOR"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508111",
+    "name": "CONSORCIO SANTA TERESA",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508111",
+     "legalName": "CONSORCIO SANTA TERESA"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508179",
+    "name": "CONSORCIO VIAL SELVA ALEGRE",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508179",
+     "legalName": "CONSORCIO VIAL SELVA ALEGRE"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508120",
+    "name": "CONSORCIO SELVA ALEGRE - AREQUIPA",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508120",
+     "legalName": "CONSORCIO SELVA ALEGRE - AREQUIPA"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508250",
+    "name": "ACME",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508250",
+     "legalName": "ACME"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508252",
+    "name": "CONSORCIO LIMA NORTE",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508252",
+     "legalName": "CONSORCIO LIMA NORTE"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508127",
+    "name": "consorcio vial",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508127",
+     "legalName": "consorcio vial"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508321",
+    "name": "CONSORCIO ALCA",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508321",
+     "legalName": "CONSORCIO ALCA"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508229",
+    "name": "CONSORCIO HOT SUITE",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508229",
+     "legalName": "CONSORCIO HOT SUITE"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508197",
+    "name": "consorcio bondy",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508197",
+     "legalName": "consorcio bondy"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508092",
+    "name": "CONSORCIO ARES",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508092",
+     "legalName": "CONSORCIO ARES"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508136",
+    "name": "CONSORCIO CHAPI",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508136",
+     "legalName": "CONSORCIO CHAPI"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-1508137",
+    "name": "CONSORCIO AMANCAES",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "1508137",
+     "legalName": "CONSORCIO AMANCAES"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20603587244",
+    "name": "ALVAMAR SOCIETY  S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20603587244",
+     "legalName": "ALVAMAR SOCIETY  S.A.C."
+    },
+    "address": {
+     "countryName": "PERU"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20456196480",
+    "name": "THERAN CONTRATISTAS GENERALES E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20456196480",
+     "legalName": "THERAN CONTRATISTAS GENERALES E.I.R.L."
+    },
+    "address": {
+     "countryName": "PERU"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20600183762",
+    "name": "JUSAL INVERSIONES E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20600183762",
+     "legalName": "JUSAL INVERSIONES E.I.R.L."
+    },
+    "address": {
+     "countryName": "PERU"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20261295246",
+    "name": "FM CONTRATISTAS GENERALES S.R.L",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20261295246",
+     "legalName": "FM CONTRATISTAS GENERALES S.R.L"
+    },
+    "address": {
+     "countryName": "PERU"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20393340208",
+    "name": "DAYAN CONTRATISTAS S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20393340208",
+     "legalName": "DAYAN CONTRATISTAS S.A.C."
+    },
+    "address": {
+     "countryName": "PERU"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20559212700",
+    "name": "GRUPO COINGCO S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20559212700",
+     "legalName": "GRUPO COINGCO S.A.C."
+    },
+    "address": {
+     "countryName": "PERU"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20506123501",
+    "name": "JAEC CONTRATISTAS GENERALES SRL",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20506123501",
+     "legalName": "JAEC CONTRATISTAS GENERALES SRL"
+    },
+    "address": {
+     "countryName": "PERU"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20605139109",
+    "name": "CONSTRUCTORA URBANUZ PERU S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20605139109",
+     "legalName": "CONSTRUCTORA URBANUZ PERU S.R.L."
+    },
+    "address": {
+     "countryName": "PERU"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20489665604",
+    "name": "H& G ZAFIRO SOCIEDAD ANONIMA CERRADA",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20489665604",
+     "legalName": "H& G ZAFIRO SOCIEDAD ANONIMA CERRADA"
+    },
+    "address": {
+     "countryName": "PERU"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-10000000028",
+    "name": "PERSONA NATURAL (DATO REDACTADO)",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "10000000028",
+     "legalName": "PERSONA NATURAL (DATO REDACTADO)"
+    },
+    "address": {
+     "countryName": "PERU"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-10000000029",
+    "name": "PERSONA NATURAL (DATO REDACTADO)",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "10000000029",
+     "legalName": "PERSONA NATURAL (DATO REDACTADO)"
+    },
+    "address": {
+     "countryName": "PERU"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20517099857",
+    "name": "THE MOON CONTRATISTAS GENERALES SAC",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20517099857",
+     "legalName": "THE MOON CONTRATISTAS GENERALES SAC"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20477911111",
+    "name": "WCEX E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20477911111",
+     "legalName": "WCEX E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20606698250",
+    "name": "VALCOR CONSTRUCCIONES S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20606698250",
+     "legalName": "VALCOR CONSTRUCCIONES S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20558231549",
+    "name": "INGENIERIA MAQUINARIAS EIRL",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20558231549",
+     "legalName": "INGENIERIA MAQUINARIAS EIRL"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20539330099",
+    "name": "RIOFERR S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20539330099",
+     "legalName": "RIOFERR S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20455326151",
+    "name": "REGALMA E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20455326151",
+     "legalName": "REGALMA E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20498492224",
+    "name": "V & C SERVICIOS S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20498492224",
+     "legalName": "V & C SERVICIOS S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20539416643",
+    "name": "WARA CONTRATISTAS GENERALES S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20539416643",
+     "legalName": "WARA CONTRATISTAS GENERALES S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20608408747",
+    "name": "PACORQ S.R.L",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20608408747",
+     "legalName": "PACORQ S.R.L"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20456323007",
+    "name": "E & F TRANSMAQ S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20456323007",
+     "legalName": "E & F TRANSMAQ S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-10000000030",
+    "name": "PERSONA NATURAL (DATO REDACTADO)",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "10000000030",
+     "legalName": "PERSONA NATURAL (DATO REDACTADO)"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20448090958",
+    "name": "INDUSTRIA DE MAQUINARIAS Y EQUIPAMIENTOS S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20448090958",
+     "legalName": "INDUSTRIA DE MAQUINARIAS Y EQUIPAMIENTOS S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20558017032",
+    "name": "DELTA SUR S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20558017032",
+     "legalName": "DELTA SUR S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20558593963",
+    "name": "JP CONSTRUCCION & SUMINISTROS S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20558593963",
+     "legalName": "JP CONSTRUCCION & SUMINISTROS S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20610460527",
+    "name": "AIC ACTIVIDADES DE INGENIERIA Y CONSTRUCCION S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20610460527",
+     "legalName": "AIC ACTIVIDADES DE INGENIERIA Y CONSTRUCCION S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20600775309",
+    "name": "D & A CONSTRUCCIONES SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA - D & A CONSTRUCCIONES S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20600775309",
+     "legalName": "D & A CONSTRUCCIONES SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA - D & A CONSTRUCCIONES S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20558374579",
+    "name": "EDTEZA E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20558374579",
+     "legalName": "EDTEZA E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20605415009",
+    "name": "COLTAN JLA S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20605415009",
+     "legalName": "COLTAN JLA S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20558351790",
+    "name": "DRUK GAVE INGENIERIA CONSTRUCCION Y SERVICIOS S.R.L.-DRUK GAVE ICS S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20558351790",
+     "legalName": "DRUK GAVE INGENIERIA CONSTRUCCION Y SERVICIOS S.R.L.-DRUK GAVE ICS S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20600928458",
+    "name": "SOLVER TI SOCIEDAD ANONIMA CERRADA - SOLVER TI S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20600928458",
+     "legalName": "SOLVER TI SOCIEDAD ANONIMA CERRADA - SOLVER TI S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20603932693",
+    "name": "NXTGEN SOCIEDAD ANONIMA CERRADA",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20603932693",
+     "legalName": "NXTGEN SOCIEDAD ANONIMA CERRADA"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20600894821",
+    "name": "OBRETECH SOCIEDAD ANONIMA CERRADA - OBRETECH S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20600894821",
+     "legalName": "OBRETECH SOCIEDAD ANONIMA CERRADA - OBRETECH S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20605000097",
+    "name": "GLOBAL GROUP EPVA S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20605000097",
+     "legalName": "GLOBAL GROUP EPVA S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20539408543",
+    "name": "CONSTRUCTORA COSUR E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20539408543",
+     "legalName": "CONSTRUCTORA COSUR E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20519607264",
+    "name": "SERVCOM E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20519607264",
+     "legalName": "SERVCOM E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20498283226",
+    "name": "INGENIERIA Y CONSTRUCCION DEL SUR SAC",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20498283226",
+     "legalName": "INGENIERIA Y CONSTRUCCION DEL SUR SAC"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20601059381",
+    "name": "MONTALVO CONSTRUCTORA Y CONSULTORIA E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20601059381",
+     "legalName": "MONTALVO CONSTRUCTORA Y CONSULTORIA E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20457396946",
+    "name": "SHEYSA CONTRATISTAS SOCIEDAD ANONIMA CERRADA - SHEYCONSAC",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20457396946",
+     "legalName": "SHEYSA CONTRATISTAS SOCIEDAD ANONIMA CERRADA - SHEYCONSAC"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20454239050",
+    "name": "E&A CONTRATISTAS GENERALES S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20454239050",
+     "legalName": "E&A CONTRATISTAS GENERALES S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20559326381",
+    "name": "MONVISO CONTRATISTAS Y CONSULTORES SOCIEDAD COMERCIAL DE RESPONSABILIDA LIMITADA",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20559326381",
+     "legalName": "MONVISO CONTRATISTAS Y CONSULTORES SOCIEDAD COMERCIAL DE RESPONSABILIDA LIMITADA"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20448771475",
+    "name": "GRUPO CH & M SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20448771475",
+     "legalName": "GRUPO CH & M SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20603943075",
+    "name": "BJL CONSTRUCTORA E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20603943075",
+     "legalName": "BJL CONSTRUCTORA E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20498284206",
+    "name": "C.M.CONTRATISTAS GENERALES E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20498284206",
+     "legalName": "C.M.CONTRATISTAS GENERALES E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-10000000031",
+    "name": "PERSONA NATURAL (DATO REDACTADO)",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "10000000031",
+     "legalName": "PERSONA NATURAL (DATO REDACTADO)"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20609326914",
+    "name": "GRUPO CONSOR S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20609326914",
+     "legalName": "GRUPO CONSOR S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20606186062",
+    "name": "MADAH PERU S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20606186062",
+     "legalName": "MADAH PERU S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20534717068",
+    "name": "CONSTRUCTORA E INMOBILIARIA TRIANGULO S.R.L",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20534717068",
+     "legalName": "CONSTRUCTORA E INMOBILIARIA TRIANGULO S.R.L"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20533943706",
+    "name": "CORPORACION INTERNACIONAL RIO AMAZONAS S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20533943706",
+     "legalName": "CORPORACION INTERNACIONAL RIO AMAZONAS S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20454915951",
+    "name": "JIALCON CONTRATISTAS S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20454915951",
+     "legalName": "JIALCON CONTRATISTAS S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20611296607",
+    "name": "SRV INGENIEROS ASOCIADOS E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20611296607",
+     "legalName": "SRV INGENIEROS ASOCIADOS E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20604390410",
+    "name": "ORGANIZACION DE SERVICIOS Y CONSTRUCCION SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20604390410",
+     "legalName": "ORGANIZACION DE SERVICIOS Y CONSTRUCCION SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20507687084",
+    "name": "DESARROLLO INNOVACION Y TECNOLOGIA DE SERVICIOS S.A.C",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20507687084",
+     "legalName": "DESARROLLO INNOVACION Y TECNOLOGIA DE SERVICIOS S.A.C"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20406472281",
+    "name": "CONSTRUCTORA INMOBILIARIA CONSULTORA E Y E E.I.R.L. - CICEE E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20406472281",
+     "legalName": "CONSTRUCTORA INMOBILIARIA CONSULTORA E Y E E.I.R.L. - CICEE E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20532580260",
+    "name": "CONSULTORIA DE INGENIERIAS Y CONSTRUCCION SOCIEDAD ANONIMA - CODEINCO S.A.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20532580260",
+     "legalName": "CONSULTORIA DE INGENIERIAS Y CONSTRUCCION SOCIEDAD ANONIMA - CODEINCO S.A."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20393271044",
+    "name": "NEGOCIACIONES E INVERSIONES ELAAN EIRL",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20393271044",
+     "legalName": "NEGOCIACIONES E INVERSIONES ELAAN EIRL"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20455430489",
+    "name": "ARCEN CONTRATISTAS GENERALES S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20455430489",
+     "legalName": "ARCEN CONTRATISTAS GENERALES S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20602018297",
+    "name": "DELVILLAREAL E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20602018297",
+     "legalName": "DELVILLAREAL E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20509186961",
+    "name": "R & M CONTRATISTAS SOCIEDAD ANONIMA CERRADA",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20509186961",
+     "legalName": "R & M CONTRATISTAS SOCIEDAD ANONIMA CERRADA"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20534272431",
+    "name": "MELTASS CONTRATISTAS GENERALES SOCIEDAD ANONIMA CERRADA",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20534272431",
+     "legalName": "MELTASS CONTRATISTAS GENERALES SOCIEDAD ANONIMA CERRADA"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20558235455",
+    "name": "GREMA SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA-GREMA S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20558235455",
+     "legalName": "GREMA SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA-GREMA S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20344955051",
+    "name": "B&C CONTRATISTAS GENERALES S.A.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20344955051",
+     "legalName": "B&C CONTRATISTAS GENERALES S.A."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20600428153",
+    "name": "CONCRETO SUR MIX E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20600428153",
+     "legalName": "CONCRETO SUR MIX E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20223880372",
+    "name": "M & C CONSTRUCCIONES Y SERVICIOS SRLTDA",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20223880372",
+     "legalName": "M & C CONSTRUCCIONES Y SERVICIOS SRLTDA"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20542681731",
+    "name": "INDUSTRIA DE LA CONSTRUCCION & CONSULTORES PERU S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20542681731",
+     "legalName": "INDUSTRIA DE LA CONSTRUCCION & CONSULTORES PERU S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20542059291",
+    "name": "CORPORACION GRUPO IBIZA S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20542059291",
+     "legalName": "CORPORACION GRUPO IBIZA S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20443107593",
+    "name": "AMC INGENIEROS S.R.LTDA.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20443107593",
+     "legalName": "AMC INGENIEROS S.R.LTDA."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20558683369",
+    "name": "INVERSIONES TRANSCYE SAC",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20558683369",
+     "legalName": "INVERSIONES TRANSCYE SAC"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20557038338",
+    "name": "C & R EJECUTORES S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20557038338",
+     "legalName": "C & R EJECUTORES S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20602604030",
+    "name": "GRUPO SIGMA PERU S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20602604030",
+     "legalName": "GRUPO SIGMA PERU S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20455678189",
+    "name": "ESCORPIO / CCSG / S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20455678189",
+     "legalName": "ESCORPIO / CCSG / S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20547097069",
+    "name": "M & S PROYECTS S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20547097069",
+     "legalName": "M & S PROYECTS S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20610627162",
+    "name": "ERPCA CONSULTORIA EJECUCION Y SERVICIOS GENERALES E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20610627162",
+     "legalName": "ERPCA CONSULTORIA EJECUCION Y SERVICIOS GENERALES E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20365809179",
+    "name": "EL HORIZONTE S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20365809179",
+     "legalName": "EL HORIZONTE S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20448307523",
+    "name": "Z & Z INGENIEROS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20448307523",
+     "legalName": "Z & Z INGENIEROS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20498186379",
+    "name": "CONSTRUCTORA GUERRA S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20498186379",
+     "legalName": "CONSTRUCTORA GUERRA S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20515430505",
+    "name": "CONSTRUCTORA PAFARI SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA - CONSTRUCTORA PAFARI S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20515430505",
+     "legalName": "CONSTRUCTORA PAFARI SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA - CONSTRUCTORA PAFARI S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20454724691",
+    "name": "ECONYSUR S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20454724691",
+     "legalName": "ECONYSUR S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20506003351",
+    "name": "MEJESA S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20506003351",
+     "legalName": "MEJESA S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20215462910",
+    "name": "NOSA CONTRATISTAS GENERALES S R L",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20215462910",
+     "legalName": "NOSA CONTRATISTAS GENERALES S R L"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20600446143",
+    "name": "CONSTRUCTORA SAN ROMAN PERÚ S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20600446143",
+     "legalName": "CONSTRUCTORA SAN ROMAN PERÚ S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20481456712",
+    "name": "GENESIS CONTRATISTAS GENERALES S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20481456712",
+     "legalName": "GENESIS CONTRATISTAS GENERALES S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20454168365",
+    "name": "CONSTRUCCIONES ALFA - OMEGA S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20454168365",
+     "legalName": "CONSTRUCCIONES ALFA - OMEGA S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-10000000032",
+    "name": "PERSONA NATURAL (DATO REDACTADO)",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "10000000032",
+     "legalName": "PERSONA NATURAL (DATO REDACTADO)"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20604357951",
+    "name": "FAPECONS INGENIERIA Y CONSTRUCCION E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20604357951",
+     "legalName": "FAPECONS INGENIERIA Y CONSTRUCCION E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer",
+     "supplier"
+    ]
+   },
+   {
+    "id": "PE-RUC-20600068050",
+    "name": "CALMER CONTRATISTAS GENERALES SOCIEDAD ANONIMA CERRADA - CALMER S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20600068050",
+     "legalName": "CALMER CONTRATISTAS GENERALES SOCIEDAD ANONIMA CERRADA - CALMER S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20517230821",
+    "name": "CORPORACION J&J INGENIEROS S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20517230821",
+     "legalName": "CORPORACION J&J INGENIEROS S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20552908903",
+    "name": "CORPORACION LINARES CONTRATISTAS S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20552908903",
+     "legalName": "CORPORACION LINARES CONTRATISTAS S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20530258620",
+    "name": "PROYECTOS Y CONSTRUCCIONES ESCALANTE S.A.C",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20530258620",
+     "legalName": "PROYECTOS Y CONSTRUCCIONES ESCALANTE S.A.C"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20494686369",
+    "name": "CONSTRUCTORA E INMOBILIARIA ENMANUEL & LUCIANO SOCIEDAD ANONIMA CERRADA",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20494686369",
+     "legalName": "CONSTRUCTORA E INMOBILIARIA ENMANUEL & LUCIANO SOCIEDAD ANONIMA CERRADA"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20558040522",
+    "name": "INGECONST.PERU E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20558040522",
+     "legalName": "INGECONST.PERU E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20455554889",
+    "name": "TRANSMAVEN S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20455554889",
+     "legalName": "TRANSMAVEN S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-10000000033",
+    "name": "PERSONA NATURAL (DATO REDACTADO)",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "10000000033",
+     "legalName": "PERSONA NATURAL (DATO REDACTADO)"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20455682020",
+    "name": "J & M MINERIA Y SERVICIOS S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20455682020",
+     "legalName": "J & M MINERIA Y SERVICIOS S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20456201661",
+    "name": "J Y V CONSULTORIA, CONSTRUCCION, Y LABORATORIO DE MECANICA DE SUELOS S.A.C.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20456201661",
+     "legalName": "J Y V CONSULTORIA, CONSTRUCCION, Y LABORATORIO DE MECANICA DE SUELOS S.A.C."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20508461489",
+    "name": "ARCONST SOCIEDAD ANONIMA CERRADA",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20508461489",
+     "legalName": "ARCONST SOCIEDAD ANONIMA CERRADA"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20605563253",
+    "name": "MAJIHSA MATERIALES Y CONSTRUCCION E.I.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20605563253",
+     "legalName": "MAJIHSA MATERIALES Y CONSTRUCCION E.I.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20601928249",
+    "name": "GRUPO LOGISTICO CONSTRUCTOR AREQUIPA EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA-G.L.C.A. E.I.R.L",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20601928249",
+     "legalName": "GRUPO LOGISTICO CONSTRUCTOR AREQUIPA EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA-G.L.C.A. E.I.R.L"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20447723965",
+    "name": "ALFARUS CONTRATISTAS GENERALES SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20447723965",
+     "legalName": "ALFARUS CONTRATISTAS GENERALES SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA"
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   },
+   {
+    "id": "PE-RUC-20534004185",
+    "name": "HUACHECSA S.R.L. - HCSA S.R.L.",
+    "identifier": {
+     "scheme": "PE-RUC",
+     "id": "20534004185",
+     "legalName": "HUACHECSA S.R.L. - HCSA S.R.L."
+    },
+    "contactPoint": {
+     "email": "Ver datos en Ficha del Proveedor",
+     "telephone": "Ver dato en ficha del proveedor"
+    },
+    "roles": [
+     "tenderer"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "seace_v3",
+    "name": "Sistema Electrónico de Contrataciones del Estado - Versión 3",
+    "url": "https://prodapp2.seace.gob.pe/seacebus-uiwd-pub/buscadorPublico/buscadorPublico.xhtml"
+   }
+  ],
+  "dataSegmentation": {
+   "id": "2024-03",
+   "criteria": [
+    "añoInicioConvocatoria",
+    "mesInicioConvocatoria"
+   ]
+  },
+  "awards": [
+   {
+    "id": "999983-20508461489",
+    "value": {
+     "amount": 2241668.35,
+     "currency": "PEN",
+     "currencyName": "Soles"
+    },
+    "items": [
+     {
+      "id": "20656452",
+      "position": "1",
+      "description": "CONTRATACION DE UNA PERSONA NATURAL O JURIDICA ENCARGADA DE LA EJECUCION DEL PROYECTO DENOMINADO: \"MEJORAMIENTO DE LA TRANSITABILIDAD VEHICULAR Y PEATONAL DEL ASENTAMIENTO HUMANO COOP. MARISCAL ANDRES AVELINO CACERES Y ASOC. AUGUSTO SALAZAR BONDY, DISTRITO DE ALTO SELVA ALEGRE - AREQUIPA - AREQUIPA¿ con CUI N°2315085",
+      "statusDetails": "CONSENTIDO",
+      "status": "active",
+      "classification": {
+       "id": "7214100100233103",
+       "description": "CONSTRUCCION DE CALLES CON PAVIMENTO",
+       "scheme": "CUBSO"
+      },
+      "additionalClassifications": [
+       {
+        "id": "72141001",
+        "description": "Servicios de construcción de pistas y carreteras nuevas",
+        "scheme": "UNSPSC"
+       }
+      ],
+      "quantity": 1.0,
+      "totalValue": {
+       "amount": 2241668.35,
+       "currency": "PEN",
+       "currencyName": "Soles"
+      },
+      "unit": {
+       "id": "36",
+       "name": "Servicio",
+       "scheme": "PE-SEACE3-UnidadMedida"
+      }
+     }
+    ],
+    "date": "2024-06-28T00:00:00-05:00",
+    "suppliers": [
+     {
+      "id": "PE-RUC-20508461489",
+      "name": "ARCONST SOCIEDAD ANONIMA CERRADA"
+     }
+    ]
+   },
+   {
+    "id": "999983-20604357951",
+    "value": {
+     "amount": 2241668.35,
+     "currency": "PEN",
+     "currencyName": "Soles"
+    },
+    "items": [
+     {
+      "id": "20656452",
+      "position": "1",
+      "description": "CONTRATACION DE UNA PERSONA NATURAL O JURIDICA ENCARGADA DE LA EJECUCION DEL PROYECTO DENOMINADO: \"MEJORAMIENTO DE LA TRANSITABILIDAD VEHICULAR Y PEATONAL DEL ASENTAMIENTO HUMANO COOP. MARISCAL ANDRES AVELINO CACERES Y ASOC. AUGUSTO SALAZAR BONDY, DISTRITO DE ALTO SELVA ALEGRE - AREQUIPA - AREQUIPA¿ con CUI N°2315085",
+      "statusDetails": "CONTRATADO",
+      "status": "active",
+      "classification": {
+       "id": "7214100100233103",
+       "description": "CONSTRUCCION DE CALLES CON PAVIMENTO",
+       "scheme": "CUBSO"
+      },
+      "additionalClassifications": [
+       {
+        "id": "72141001",
+        "description": "Servicios de construcción de pistas y carreteras nuevas",
+        "scheme": "UNSPSC"
+       }
+      ],
+      "quantity": 1.0,
+      "totalValue": {
+       "amount": 2241668.35,
+       "currency": "PEN",
+       "currencyName": "Soles"
+      },
+      "unit": {
+       "id": "36",
+       "name": "Servicio",
+       "scheme": "PE-SEACE3-UnidadMedida"
+      }
+     }
+    ],
+    "date": "2024-10-30T00:00:00-05:00",
+    "suppliers": [
+     {
+      "id": "PE-RUC-20604357951",
+      "name": "FAPECONS INGENIERIA Y CONSTRUCCION E.I.R.L."
+     }
+    ]
+   }
+  ],
+  "contracts": [
+   {
+    "id": "2294012",
+    "awardID": "999983-20604357951",
+    "title": "47-2024-MDASA",
+    "description": "CONTRATACION DE UNA PERSONA NATURAL O JURIDICA ENCARGADA DE LA EJECUCION DEL PROYECTO DENOMINADO: \"MEJORAMIENTO DE LA TRANSITABILIDAD VEHICULAR Y PEATONAL DEL ASENTAMIENTO HUMANO COOP. MARISCAL ANDRES AVELINO CACERES Y ASOC. AUGUSTO SALAZAR BONDY, DISTRITO DE ALTO SELVA ALEGRE - AREQUIPA - AREQUIPA¿ con CUI N°2315085",
+    "period": {
+     "startDate": "2024-11-23T00:00:00-05:00",
+     "endDate": "2025-05-21T00:00:00-05:00",
+     "durationInDays": 179
+    },
+    "value": {
+     "amount": 2241668.35,
+     "currency": "PEN",
+     "currencyName": "Soles"
+    },
+    "dateSigned": "2024-11-22T00:00:00-05:00",
+    "items": [
+     {
+      "id": "20656452",
+      "position": "1",
+      "description": "CONTRATACION DE UNA PERSONA NATURAL O JURIDICA ENCARGADA DE LA EJECUCION DEL PROYECTO DENOMINADO: \"MEJORAMIENTO DE LA TRANSITABILIDAD VEHICULAR Y PEATONAL DEL ASENTAMIENTO HUMANO COOP. MARISCAL ANDRES AVELINO CACERES Y ASOC. AUGUSTO SALAZAR BONDY, DISTRITO DE ALTO SELVA ALEGRE - AREQUIPA - AREQUIPA¿ con CUI N°2315085",
+      "statusDetails": "Contratado",
+      "status": "active",
+      "classification": {
+       "id": "7214100100233103",
+       "description": "CONSTRUCCION DE CALLES CON PAVIMENTO",
+       "scheme": "CUBSO"
+      },
+      "additionalClassifications": [
+       {
+        "id": "72141001",
+        "description": "Servicios de construcción de pistas y carreteras nuevas",
+        "scheme": "UNSPSC"
+       }
+      ],
+      "quantity": 1.0,
+      "totalValue": {
+       "amount": 2241668.35,
+       "currency": "PEN",
+       "currencyName": "Soles"
+      },
+      "unit": {
+       "id": "36",
+       "name": "Servicio",
+       "scheme": "PE-SEACE3-UnidadMedida"
+      }
+     }
+    ],
+    "documents": [
+     {
+      "id": "152720195",
+      "documentType": "contractSigned",
+      "title": "Archivos del contrato",
+      "url": "https://prod4.seace.gob.pe:9000/api/con/documentos/descargar/152720195",
+      "datePublished": "2024-11-27T13:01:57-05:00",
+      "format": "application/pdf",
+      "language": "es"
+     },
+     {
+      "id": "152853440",
+      "documentType": "contractAnnexe",
+      "title": "Archivos del adicional del contrato",
+      "url": "https://prod4.seace.gob.pe:9000/api/con/documentos/descargar/152853440",
+      "datePublished": "2025-05-29T10:07:59-05:00",
+      "format": "application/pdf",
+      "language": "es"
+     },
+     {
+      "id": "153013031",
+      "url": "https://prod4.seace.gob.pe:9000/api/con/documentos/descargar/153013031",
+      "datePublished": "2025-12-30T17:04:00-05:00",
+      "format": "application/pdf",
+      "language": "es"
+     }
+    ],
+    "implementation": {
+     "finalValue": {
+      "amount": 2572653.56,
+      "currency": "PEN",
+      "currencyName": "Soles"
+     }
+    }
+   }
+  ]
+ },
+ "ocid": "ocds-dgv273-seacev3-2024-424-9",
+ "releases": [
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2026-01-01T10:22:32.320059-05:00",
+   "date": "2026-01-01T10:22:32.320045-05:00",
+   "tag": [
+    "planning",
+    "tender",
+    "award",
+    "contract",
+    "implementation"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2026-01-01T10:22:32.320059-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2025-12-31T10:19:06.060993-05:00",
+   "date": "2025-12-31T10:19:06.060980-05:00",
+   "tag": [
+    "planning",
+    "tender",
+    "award",
+    "contract",
+    "implementation"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2025-12-31T10:19:06.060993-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2025-05-31T10:09:41.271811-05:00",
+   "date": "2025-05-31T10:09:41.271797-05:00",
+   "tag": [
+    "planning",
+    "tender",
+    "award",
+    "contract",
+    "implementation"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2025-05-31T10:09:41.271811-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2025-05-30T10:14:56.708813-05:00",
+   "date": "2025-05-30T10:14:56.708800-05:00",
+   "tag": [
+    "planning",
+    "tender",
+    "award",
+    "contract",
+    "implementation"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2025-05-30T10:14:56.708813-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-11-13T10:16:42.872736-05:00",
+   "date": "2024-11-13T10:16:42.872723-05:00",
+   "tag": [
+    "planning",
+    "tender",
+    "award"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-11-13T10:16:42.872736-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-11-12T10:13:02.380869-05:00",
+   "date": "2024-11-12T10:13:02.380856-05:00",
+   "tag": [
+    "planning",
+    "tender",
+    "award"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-11-12T10:13:02.380869-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-11-01T10:21:10.244580-05:00",
+   "date": "2024-11-01T10:21:10.244556-05:00",
+   "tag": [
+    "planning",
+    "tender",
+    "award"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-11-01T10:21:10.244580-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-10-31T10:15:00.881261-05:00",
+   "date": "2024-10-31T10:15:00.881246-05:00",
+   "tag": [
+    "planning",
+    "tender",
+    "award"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-10-31T10:15:00.881261-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-10-25T16:55:24.041242-05:00",
+   "date": "2024-10-25T16:55:24.041228-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-10-25T16:55:24.041242-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-09-12T10:15:42.259944-05:00",
+   "date": "2024-09-12T10:15:42.259930-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-09-12T10:15:42.259944-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-09-11T10:14:12.083661-05:00",
+   "date": "2024-09-11T10:14:12.083645-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-09-11T10:14:12.083661-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-08-31T10:05:13.810737-05:00",
+   "date": "2024-08-31T10:05:13.810724-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-08-31T10:05:13.810737-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-08-30T10:13:39.294341-05:00",
+   "date": "2024-08-30T10:13:39.294312-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-08-30T10:13:39.294341-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-07-10T10:20:24.019617-05:00",
+   "date": "2024-07-10T10:20:24.019602-05:00",
+   "tag": [
+    "planning",
+    "tender",
+    "award"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-07-10T10:20:24.019617-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-07-09T13:18:35.145764-05:00",
+   "date": "2024-07-09T13:18:35.145748-05:00",
+   "tag": [
+    "planning",
+    "tender",
+    "award"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-07-09T13:18:35.145764-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-06-25T12:12:01.322275-05:00",
+   "date": "2024-06-25T12:12:01.322259-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-06-25T12:12:01.322275-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-05-18T08:43:34.036783-05:00",
+   "date": "2024-05-18T08:43:34.036770-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-05-18T08:43:34.036783-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-05-16T08:40:40.060888-05:00",
+   "date": "2024-05-16T08:40:40.060874-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-05-16T08:40:40.060888-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-05-13T08:45:42.376543-05:00",
+   "date": "2024-05-13T08:45:42.376527-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-05-13T08:45:42.376543-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-05-09T08:42:51.652071-05:00",
+   "date": "2024-05-09T08:42:51.652052-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-05-09T08:42:51.652071-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-28T08:21:16.474560-05:00",
+   "date": "2024-04-28T08:21:16.474537-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-28T08:21:16.474560-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-27T08:29:35.835043-05:00",
+   "date": "2024-04-27T08:29:35.835030-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-27T08:29:35.835043-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-19T08:29:48.576908-05:00",
+   "date": "2024-04-19T08:29:48.576894-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-19T08:29:48.576908-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-18T08:29:00.930168-05:00",
+   "date": "2024-04-18T08:29:00.930155-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-18T08:29:00.930168-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-17T08:29:12.836849-05:00",
+   "date": "2024-04-17T08:29:12.836836-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-17T08:29:12.836849-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-16T08:20:42.919357-05:00",
+   "date": "2024-04-16T08:20:42.919344-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-16T08:20:42.919357-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-15T08:09:36.257348-05:00",
+   "date": "2024-04-15T08:09:36.257334-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-15T08:09:36.257348-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-14T08:29:19.718723-05:00",
+   "date": "2024-04-14T08:29:19.718710-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-14T08:29:19.718723-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-12T08:28:13.782271-05:00",
+   "date": "2024-04-12T08:28:13.782258-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-12T08:28:13.782271-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-11T08:29:34.078283-05:00",
+   "date": "2024-04-11T08:29:34.078268-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-11T08:29:34.078283-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-10T08:27:57.187719-05:00",
+   "date": "2024-04-10T08:27:57.187704-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-10T08:27:57.187719-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-09T08:19:10.751542-05:00",
+   "date": "2024-04-09T08:19:10.751529-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-09T08:19:10.751542-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-08T08:08:58.198989-05:00",
+   "date": "2024-04-08T08:08:58.198976-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-08T08:08:58.198989-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-07T08:19:06.653222-05:00",
+   "date": "2024-04-07T08:19:06.653208-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-07T08:19:06.653222-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-06T08:27:06.914955-05:00",
+   "date": "2024-04-06T08:27:06.914942-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-06T08:27:06.914955-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-05T08:25:26.985761-05:00",
+   "date": "2024-04-05T08:25:26.985748-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-05T08:25:26.985761-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-04T08:27:52.473489-05:00",
+   "date": "2024-04-04T08:27:52.473475-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-04T08:27:52.473489-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-03T08:23:40.206048-05:00",
+   "date": "2024-04-03T08:23:40.206034-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-03T08:23:40.206048-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-02T08:17:36.834474-05:00",
+   "date": "2024-04-02T08:17:36.834459-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-02T08:17:36.834474-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-04-01T08:07:50.852879-05:00",
+   "date": "2024-04-01T08:07:50.852866-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-04-01T08:07:50.852879-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-03-31T08:08:12.903802-05:00",
+   "date": "2024-03-31T08:08:12.903789-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-03-31T08:08:12.903802-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-03-30T08:08:34.883752-05:00",
+   "date": "2024-03-30T08:08:34.883740-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-03-30T08:08:34.883752-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-03-29T08:18:16.226095-05:00",
+   "date": "2024-03-29T08:18:16.226082-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-03-29T08:18:16.226095-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  },
+  {
+   "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-9-2024-03-28T08:28:07.610847-05:00",
+   "date": "2024-03-28T08:28:07.610835-05:00",
+   "tag": [
+    "planning",
+    "tender"
+   ],
+   "details": {
+    "id": "ocds-dgv273-seacev3-2024-424-9-2024-03-28T08:28:07.610847-05:00",
+    "tender": {
+     "id": "999983",
+     "title": "AS-SM-8-2024-MDASA/CS-1"
+    }
+   }
+  }
+ ]
+}
